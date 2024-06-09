@@ -8,8 +8,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Bobby's Portfolio",
-  description:
-    "Specialized in developing secure banking platforms with modern technologies. Passionate coder, always improving skills through personal projects. Focused on delivering high-quality fintech solutions.",
+  description: "Specialized in developing secure banking platforms with modern technologies. Passionate coder, always improving skills through personal projects. Focused on delivering high-quality fintech solutions.",
   og: {
     title: "Prince Bobby Portfolio",
     type: "website",
@@ -22,11 +21,9 @@ const greeting = {
   title: "Prince Bobby",
   logo_name: "Prince Bobby",
   nickname: "sch_dey_bore",
-  subTitle:
-    "A skilled backend engineer with expertise in API design, database management, and cloud deployments. Proficient in PostgreSQL, MySQL, RabbitMQ, Golang, Clojure, and Java, I excel in disaster recovery and Site Reliability Engineering (SRE).",
-  resumeLink:
-    "https://docs.google.com/document/d/1Vvt-X1dA_f3vumhW4e3h14_GVBOnVhBCI_sO6f86_AE/edit?usp=sharing",
-  // portfolio_repository: "https://github.com/princebobby16/portfolio",
+  subTitle: "A skilled backend engineer with expertise in API design, database management, and cloud deployments. Proficient in PostgreSQL, MySQL, RabbitMQ, Golang, Clojure, and Java, I excel in disaster recovery and Site Reliability Engineering (SRE).",
+  resumeLink: "https://docs.google.com/document/d/1Vvt-X1dA_f3vumhW4e3h14_GVBOnVhBCI_sO6f86_AE/edit?usp=sharing",
+  portfolio_repository: "https://github.com/princebobby16/bobby-portfolio",
   githubProfile: "https://github.com/princebobby16",
 };
 
@@ -464,31 +461,29 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    profile_image_path: "prince.jpg",
+    description: "I am available on almost every social media platform. You can message me, I will reply within 24 hours. I can help you with Designing and Building of APIs, Android and IOS Apps, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+    title: "",
+    subtitle: "",
+    link: "",
+    avatar_image_path: "",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
+    subtitle: "Accra, Adenta, Hamburger Street",
+    locality: "Adenta",
+    country: "Ghana",
+    region: "Greater Accra",
     postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    streetAddress: "Hamburger Street",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone Number",
+    subtitle: "Prince Bobby - +233550144391",
   },
 };
 
